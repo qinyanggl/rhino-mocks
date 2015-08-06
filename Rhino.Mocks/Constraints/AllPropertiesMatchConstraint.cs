@@ -162,7 +162,7 @@ namespace Rhino.Mocks.Constraints
                     }
                     catch (System.Reflection.TargetInvocationException)
                     {
-                        //the inner exception should give you a clou about why we couldn't invoke GetValue...
+                        //the inner exception should give you a clue about why we couldn't invoke GetValue...
                         //do nothing
                     }
 
